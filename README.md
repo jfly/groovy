@@ -1,4 +1,8 @@
 # Setup
+## Clone git repo
+1. `git clone git://github.com/jfly/groovy.git`
+2. `cd groovy`
+
 ## Set up virtualenv & activate virtualenv
 1. `curl -O https://raw.github.com/pypa/virtualenv/master/virtualenv.py`
 2. `python virtualenv.py groovy_env`
