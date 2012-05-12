@@ -1,0 +1,4 @@
+*.swp
+*.pyc
+groovy_env/
+virtualenv.py
