@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import ChromeDebugger
 
 tabs = ChromeDebugger.getTabs(port=4242)
