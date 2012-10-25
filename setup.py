@@ -10,5 +10,5 @@ setup(name='groovy',
         packages=['groovy'],
 
         install_requires=["webkit_remote_debugger"],
-        dependency_links=["https://github.com/jfly/webkit_remote_debugger/tarball/master#egg=webkit-remote-debugger"]
+        dependency_links=["https://github.com/jfly/webkit_remote_debugger/tarball/master#egg=webkit-remote-debugger-1.0"]
      )
